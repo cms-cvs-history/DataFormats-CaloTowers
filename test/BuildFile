@@ -4,6 +4,6 @@
 <use name=FWCore/ParameterSet>
 
 <library file=CaloTowersDump.cc name=CaloTowersDump>
-  <flags SEAL_PLUGIN_NAME="CaloTowersDump">
+  <flags EDM_PLUGIN=1>
 </library>
 
